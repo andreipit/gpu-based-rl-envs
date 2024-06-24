@@ -1,5 +1,3 @@
-# gpu-based-rl-envs
-
 ![Environments](docs/envs.png)
 
 ### A simulation benchmark for robotics manipulation. 
