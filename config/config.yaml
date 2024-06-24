@@ -1,0 +1,5 @@
+arms: ur5
+grippers: wsg50
+platforms: wheels
+headless: true
+num_envs: 1
